@@ -1,0 +1,17 @@
+G:\saved\project\project\bin\Debug\project.exe.config
+G:\saved\project\project\bin\Debug\project.exe
+G:\saved\project\project\bin\Debug\project.pdb
+G:\saved\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+G:\saved\project\project\obj\Debug\project.login.resources
+G:\saved\project\project\obj\Debug\project.Properties.Resources.resources
+G:\saved\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+G:\saved\project\project\obj\Debug\project.exe
+G:\saved\project\project\obj\Debug\project.pdb
+G:\saved\Project\project\obj\Debug\project.dashboard.resources
+G:\saved\Project\project\obj\Debug\project.addbook.resources
+G:\saved\Project\project\obj\Debug\project.viewbook.resources
+G:\saved\Project\project\obj\Debug\project.add_student.resources
+G:\saved\project\project\obj\Debug\project.viewstudent.resources
+G:\saved\project\project\obj\Debug\project.issuebook.resources
+G:\saved\project\project\obj\Debug\project.returnbook.resources
+G:\saved\project\project\obj\Debug\project.completebook.resources
